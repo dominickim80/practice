@@ -1,0 +1,8 @@
+#horloge, h2 {
+  color : red;
+}
+
+.hor, h1 {
+  color:yellow;
+  transition: color 0.5s ease-in-out;
+}
